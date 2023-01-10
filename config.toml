@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+#baseURL = 'https://jsail.ijug.eu/'
+baseURL = 'https://CyberlandConf.github.eu/JSail'
+
+languageCode = 'de-DE'
+title = 'JSail UnConference'
+
+theme = 'paige'
