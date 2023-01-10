@@ -2,6 +2,49 @@
 baseURL = 'https://CyberlandConf.github.eu/JSail'
 
 languageCode = 'de-DE'
+defaultContentLanguage = 'de'
 title = 'JSail UnConference'
 
 theme = 'paige'
+
+[paige]
+    toc = true
+
+[languages]
+    [languages.de]
+        languageName = "Deutsch"
+
+        [languages.de.menu]
+
+            [[languages.de.menu.main]]
+            name = "Start"
+            weight = 10
+            url = "/"
+            [[languages.de.menu.main]]
+            name = "Agenda"
+            weight = 30
+            url = "/unkonferenz/"
+            [[languages.de.menu.main]]
+            name = "Tagungsort"
+            weight = 30
+            url = "/location/"
+            [[languages.de.menu.main]]
+            name = "Segeln"
+            weight = 40
+            url = "/segeln/"
+            [[languages.de.menu.main]]
+            name = "An-/Abreise"
+            weight = 50
+            url = "/an+abreise/"
+            [[languages.de.menu.main]]
+            name = "Anmeldung"
+            weight = 60
+            url = "/anmeldung/"
+            [[languages.de.menu.main]]
+            name = "Verhaltenskodex"
+            weight = 80
+            url = "/verhaltenskodex/"
+            [[languages.de.menu.main]]
+            name = "Impressum"
+            weight = 90
+            url = "https://www.ijug.eu/de/impressum/"
