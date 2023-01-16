@@ -1,29 +1,21 @@
 ---
-title: "Unkonferenz / Agenda"
+title: "Was ist eine Unkonferenz?"
 ---
 
-## Keine Agenda!?
+Eine [Unkonferenz](unkonferenz/) ist eine offene Konferenz mit mehreren Sessions (z.B. Diskussionsrunden), deren genaue Form und Inhalt vor Ort von den Teilnehmenden festgelegt werden.
 
-Per Definitionem hat eine Unkonferenz keine feste Agenda.
-Diese wird von den Teilnehmenden zu Beginn der Veranstaltung oder jeden Tag festgelegt.
-Dazu wird es einen Marktplatz der Ideen geben (s.u.), bei dem alle Sessions vorschlagen können, die dann in den Zeitplan eingeordnet werden.
+## Warum gibt es keine feste Agenda?
 
-## Highlights
+Bei einer Unkonferenz gibt es in der Regel nur ein grobes Thema.
+Das ist bei uns Java und sein Ökosystem.
+Die konkrete Agenda wird von den Teilnehmenden zu Beginn der Veranstaltung oder jeden Tag am Morgen festgelegt.
+Dazu sammeln wir gemeinsam Ideen und Themen (s.u.), die dann in den [Zeitplan](../programm/#Zeitplan) eingeordnet werden.
 
-Aus unserem Netzwerk können wir aktuell bereits eine Reihe von spannenden Themen ankündigen, die mit hoher Wahrscheinlichkeit vertreten sein werden, u.a.
+## Marktplatz der Ideen und Themen
 
-* Eclipse Adoptium (OpenJDK)
-* DevOps
-* Testcontainers
-
-[//]: # (TODO Highlights festmachen)
-
-## Marktplatz
-
-Zu Beginn jedes Session-blocks gibt es einen Marktplatz der Ideen.
-Wer ein Thema vorschlagen möchte, schreibt dieses auf ein Post-it, stellt es in einem kurzen Pitch (30s) vor und hängt es eine Wand mit dem Session-Zeitplan in einen freien Zeitslot.
+Zu Beginn jedes Tages gibt es einen Marktplatz der Ideen.
+Wer ein Thema vorschlagen möchte, stellt es in einem kurzen Pitch (30s) vor und fügt es in den Session-Zeitplan ein.
 Themen können bei Bedarf zusammengelegt werden.
-Falls zu viele Sessions für den örtlichen und zeitlichen Rahmen vorgeschlagen werden, müssen die Anwesenden ggf. darüber abstimmen (z.B. per [Dot-Voting](https://en.wikipedia.org/wiki/Dot-voting)).
 
 [//]: # (TODO Symbolbild Session-Zeitplan)
 
@@ -33,43 +25,6 @@ Wenn die Session startet, sollte die vorschlagende Person nochmal eine kurze Ein
 Sie sollte anschließend die Diskussion moderieren, sowie ggf. die Ergebnisse festhalten.
 Wir bieten an, bei der Moderation und Protokollierung zu unterstützen oder das bei Bedarf komplett zu übernehmen.
 
-## Zeitplan
-
-Als Veranstaltende schlagen wir folgenden vorläufigen Zeitplan vor.
-Die Details werden im Rahmen der einzelnen Blöcke auf der Konferenz von allen Anwesenden festgelegt.
-Außerdem kann der tägliche Zeitplan abhängig vom Wetter hinsichtlich der Unkonferenz-Blöcke und der [Segel](../segeln/)-Blöcke angepasst werden.
-
-* Dienstag, 30. Mai (Tag 0)
-  * Anreise bis 18:00 Uhr erwünscht
-  * Ab ca. 15:00 Eintreffen, Beziehen der Zimmer, ungezwungenes Kennenlernen, Erkunden der Location
-  * 18:00 Begrüßung
-  * 18:30 - 19:30 Abendessen
-  * 19:30 - 20:00 Pause
-  * 20:00 - 22:00 Einführung _Wie funktioniert eine Unkonferenz?_
-* Mittwoch, 31. Mai (Tag 1) / Donnerstag, 1. Juni (Tag 2)
-  * 7:30 - 8:30 Frühstück
-  * 8:30 - 9:30 Marktplatz Tag 1 / 2
-  * 9:30 - 9:45 Pause
-  * 9:45 - 12:45 Sessions 1-3 (Tag 1) / Sessions 4-6 (Tag 2)
-  * 12:45 - 13:00 Pause
-  * 13:00 - 14:00 Mittagessen
-  * 14:00 - 18:30 [Segeln](../segeln/) (oder andere Aktivitäten)
-  * 19:00 - 20:00 Abendessen (ggf. Grillen)
-  * 20:00 - 20:30 Pause
-  * 20:30 - Open End Abendprogramm (Spieleabend, Hacker-garden, ...)
-* Freitag, 2. Juni (Tag 3)
-  * 7:30 - 8:30 Frühstück
-  * 8:30 - 9:00 Marktplatz Tag 3
-  * 9:00 - 9:15 Pause
-  * 10:15 - 12:15 Sessions 7+8 (Tag 3)
-  * 12:15 - 13:00 Wrap-up / Feedback
-  * 13:00 - 14:00 Mittagessen
-  * 14:00 - 17:30 [Segeln](../segeln/) (oder andere Aktivitäten)
-  * ab 17:30 Abreise
-
-**Hinweis:** Der Aufenthalt in der Segelschule kann auf eigene Kosten bis (max.) Sonntag verlängert werden.
-Mindestens ein Teil der Organisierenden wird noch über das Wochenende vor Ort bleiben.
-Wir können weitere gemeinsame Segelausflüge unternehmen.
 
 ## Hintergrundwissen Unkonferenzen
 

@@ -24,24 +24,28 @@ theme = 'paige'
             weight = 10
             url = "/"
             [[languages.de.menu.main]]
-            name = "Agenda"
-            weight = 30
+            name = "Unkonferenz"
+            weight = 20
             url = "/unkonferenz/"
             [[languages.de.menu.main]]
-            name = "Tagungsort"
+            name = "Programm"
             weight = 30
+            url = "/programm/"
+            [[languages.de.menu.main]]
+            name = "Tagungsort"
+            weight = 40
             url = "/location/"
             [[languages.de.menu.main]]
             name = "Segeln"
-            weight = 40
+            weight = 50
             url = "/segeln/"
             [[languages.de.menu.main]]
             name = "An-/Abreise"
-            weight = 50
+            weight = 60
             url = "/an+abreise/"
             [[languages.de.menu.main]]
             name = "Anmeldung"
-            weight = 60
+            weight = 70
             url = "/anmeldung/"
             [[languages.de.menu.main]]
             name = "Verhaltenskodex"
