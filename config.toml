@@ -10,6 +10,9 @@ theme = 'paige'
 [paige]
     toc = true
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [languages]
     [languages.de]
         languageName = "Deutsch"
