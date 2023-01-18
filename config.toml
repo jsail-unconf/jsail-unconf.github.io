@@ -52,6 +52,10 @@ theme = 'paige'
             weight = 80
             url = "/verhaltenskodex/"
             [[languages.de.menu.main]]
+            name = "Kontakt"
+            weight = 89
+            url = "/kontakt/"
+            [[languages.de.menu.main]]
             name = "Impressum"
             weight = 90
             url = "https://www.ijug.eu/de/impressum/"

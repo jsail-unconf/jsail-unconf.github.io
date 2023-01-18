@@ -17,7 +17,7 @@ Aus unserem Netzwerk können wir aktuell bereits eine Reihe von spannenden Theme
 
 [//]: # (TODO Highlights festmachen)
 
-## Zeitplan (vorläufig)
+## Zeitplan
 
 Zur Organisation haben wir folgenden vorläufigen Zeitplan vorgesehen.
 

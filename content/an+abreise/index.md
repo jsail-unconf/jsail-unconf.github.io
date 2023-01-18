@@ -25,7 +25,7 @@ Je nach Nachfrage (s. [Anmeldung](../anmeldung/)) können wir einen Shuttle-Serv
 
 Auf Wunsch kann man Angehörige oder PartnerInnen mitbringen. 
 Erwachsenen und Kinder ab 14 Jahren einfach mit [anmelden](../anmeldung/).
-Bzgl. jüngerer Kinder bitte mit uns [Kontakt aufnehmen](mailto:jsail-orga@ijug.eu).
+Bzgl. jüngerer Kinder bitte mit uns [per Mail Kontakt aufnehmen](../kontakt/#Mail].
 
 ## Abreise / Verlängerung
 
