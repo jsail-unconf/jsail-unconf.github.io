@@ -45,7 +45,7 @@ Falls du Fragen oder Bedenken bzgl. der Teilnahme hast, kannst du uns gerne im V
 
 ## Wo findet das Ganze statt?
 
-Die [Segelschule _De Morra_](https://zeilschooldemorra.nl/) in Hemelum, Niederlande (Provinz Friesland), bietet uns Unterkünfte, leckeres Essen, jede Menge Platz für unsere Sessions und natürlich Boote und weitere Ausrüstung zum Segeln und Wind-Surfen.
+Die [Segelschule _De Morra_](location/) in Hemelum, Niederlande (Provinz Friesland), bietet uns Unterkünfte, leckeres Essen, jede Menge Platz für unsere Sessions und natürlich Boote und weitere Ausrüstung zum Segeln und Wind-Surfen.
 
 ## Was kostet das Event?
 
@@ -56,7 +56,7 @@ Die [Segelschule _De Morra_](https://zeilschooldemorra.nl/) in Hemelum, Niederla
 [//]: # (  * Enthalten sind alle Mahlzeiten &#40;es gibt auch ein vegetarisches/veganes Angebot&#41;, Kaffee/Tee, sowie die Soft-Drinks)
 
 [//]: # (  * Die Unterbringung erfolgt in 4 Bett-Zimmern &#40;Stil Jugendherberge, mit gemeinsamen Sanitäreinrichtungen&#41;, die jedoch nur einzeln bzw. bei Bedarf zu zweit belegt werden.)
-* Die Kosten für das Segeln teilen sich die Personen, die daran teilnehmen (pro Person und Tag ca. 25,-- €).
+* Die Kosten für das Segeln teilen sich die Personen, die daran teilnehmen (pro Person und Tag ca. 20,-- €).
 * [An- und Abreise](an+abreise/) gehen auf eigene Kosten.
 
 ## Wer sind wir?

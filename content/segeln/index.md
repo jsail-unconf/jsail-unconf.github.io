@@ -10,14 +10,19 @@ Wann die Blöcke genau liegen, müssen wir vom Wetter und natürlich von der Mit
 
 ## Segeln
 
+### Boote
+
+In der Regel werden wir sogenannte Falken benutzen (ndl. _Valk_), das sind kentersichere, stabile Boote, die zum Lernen und Fahrtensegeln besonders geeignet sind.
+Ein kurzes [Video der Segelschule](https://www.youtube.com/watch?v=ksz7HmUoLCc&list=PLP_TspqtAAr82vOs5oul6WDEnbR_3f27Y&index=6) vermittelt einen Eindruck, wie das aussieht.
+
 ### Brauche ich Vorkenntnisse?
 
-Aus unserer Vor-Umfrage und dem Kreis der Organisierenden und anderen Interessenten gibt es Teilnehmende mit Segel-Erfahrungen. 
-Sie können ein Boot führen oder beim Führen der Boote unterstützen.
+Aus unserer Vor-Umfrage und dem Kreis der Organisierenden und anderen Interessenten wissen wir, dass einige von Euch Segel-Erfahrungen haben. 
+Ihr könnt ein Boot führen oder beim Führen der Boote unterstützen.
 Bei Bedarf können wir auf erfahrenes Personal der Segelschule zurückgreifen.
 
-Für Unerfahrene werden wir in die Benutzung der Boote und die wichtigsten Regeln einführen.
-Alle, die Interesse haben, können mitfahren und eine aktive Rolle einnehmen, oder auch nur Sonne, Wind und Wetter genießen. 
+Für Unerfahrene werden wir in die Benutzung der Boote und alle wichtigen Regeln einführen.
+Alle, die Interesse haben, können mitfahren und nach Belieben eine aktive Rolle einnehmen, oder auch nur Sonne, Wind und Wetter genießen. 
 
 ### Welche Ausrüstung benötige ich?
 
@@ -28,14 +33,12 @@ Leider kann es auch mal regnen oder sehr windig sein.
 Das Wetter kann auch wechseln, wenn wir schon unterwegs sind.
 Dementsprechend braucht man wasserdichte Kleidung (Regenhose und -jacke), wie man sie z.B. auch zum Radfahren anziehen würde.
 Als Schuhwerk sind Sportschuhe oder ggf. wasserdichte Schuhe (z.B. Gummistiefel, eher weiches Material) zu empfehlen.
-Gerne können wir hier noch weitere Tipps geben.
-
-[//]: # (TODO Channel in JVM-German Slack eröffnen)
+Gerne können wir hier noch weitere Tipps geben (-> [Kontakt/Slack](../kontakt/#Slack)).
 
 
 ### Welche Kosten fallen an?
 
-Die Boote kosten ca. 100,-- € pro Tag und können mit 4-5 Personen besetzt werden.
+Die Boote kosten 80,-- € pro Tag und können mit 4-5 Personen besetzt werden.
 Die anfallenden Kosten teilen wir zwischen den Segelnden auf (Zahlung vor Ort).
 
 ## Andere Aktivitäten
