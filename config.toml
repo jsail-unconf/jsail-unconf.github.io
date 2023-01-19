@@ -5,7 +5,7 @@ languageCode = 'de-DE'
 defaultContentLanguage = 'de'
 title = 'JSail UnConference'
 
-theme = 'paige'
+theme = 'hero'
 
 [paige]
     toc = true
