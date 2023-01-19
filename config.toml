@@ -1,5 +1,5 @@
 #baseURL = 'https://jsail.ijug.eu/'
-baseURL = 'https://CyberlandConf.github.eu/JSail'
+baseURL = 'https://jsail-unconf.github.io/'
 
 languageCode = 'de-DE'
 defaultContentLanguage = 'de'
