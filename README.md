@@ -7,7 +7,7 @@
 * [ ] README vervollständigen
 * [ ] Theme auswählen / Bilder hinzufügen
 * [ ] Mailadresse "jsail-orga@ijug.eu" (als Weiterleitung an alle) anlegen lassen
-* [ ] JVM-German-Slack "jsail-unkonferenz" anlegen (Referenz in Kontakt)
+* [x] JVM-German-Slack "jsail-unkonferenz" anlegen (Referenz in Kontakt)
 * [ ] Integration per iJUG Matrix Server
 
 ### Feedback Tobias

@@ -8,4 +8,4 @@ Schreibt uns [eine Mail](mailto:jsail-orga@ijug.eu) für persönliche Fragen.
 
 ## Allgemeine Diskussionen/Fragen
 
-Führen wir mit allen im [JVM German Slack](https://jvm-german.slack.com) ([Registrierung](https://slackin-jvm-german.herokuapp.com/)), channel _#jsail-unkonferenz_.
+Führen wir mit allen im [JVM German Slack](https://jvm-german.slack.com) ([Registrierung](https://slackin-jvm-german.herokuapp.com/)), channel _[#jsail-unkonferenz](https://jvm-german.slack.com/archives/C04KM9U2L4T)_.
