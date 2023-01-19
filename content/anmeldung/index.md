@@ -11,6 +11,12 @@ title: "Anmeldung"
 * Rechnungen an Firmen sind durch die Segelschule möglich (inkl. USt.)
 * Segeln und andere Aktivitäten werden vor Ort privat bezahlt
 
+## Familie / PartnerInnen
+
+Auf Wunsch kannst du Angehörige oder deine(n) PartnerIn mitbringen.
+Erwachsene und Kinder ab 14 Jahren einfach mit anmelden (s.u.).
+Bzgl. jüngerer Kinder bitte vorher mit uns [per Mail Kontakt aufnehmen](../kontakt/#mail].
+
 ## Formular (TODO)
 
 * Name

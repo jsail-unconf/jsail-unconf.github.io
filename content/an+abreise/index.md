@@ -21,12 +21,6 @@ Mit Fernzügen kann man z.B. bis Leeuwarden und anschließend per Bus oder Nahve
 
 Je nach Nachfrage (s. [Anmeldung](../anmeldung/)) können wir einen Shuttle-Service von/nach Leeuwarden organisieren.
 
-## Familie / PartnerInnen
-
-Auf Wunsch kann man Angehörige oder PartnerInnen mitbringen. 
-Erwachsenen und Kinder ab 14 Jahren einfach mit [anmelden](../anmeldung/).
-Bzgl. jüngerer Kinder bitte mit uns [per Mail Kontakt aufnehmen](../kontakt/#Mail].
-
 ## Abreise / Verlängerung
 
 Das gemeinsame Programm endet am **Freitag, 02. Juni 2023 um ca. 17h30**.

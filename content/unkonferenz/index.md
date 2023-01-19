@@ -9,7 +9,7 @@ Eine [Unkonferenz](unkonferenz/) ist eine offene Konferenz mit mehreren Sessions
 Bei einer Unkonferenz gibt es in der Regel nur ein grobes Thema.
 Das ist bei uns Java und sein Ökosystem.
 Die konkrete Agenda wird von den Teilnehmenden zu Beginn der Veranstaltung oder jeden Tag am Morgen festgelegt.
-Dazu sammeln wir gemeinsam Ideen und Themen (s.u.), die dann in den [Zeitplan](../programm/#Zeitplan) eingeordnet werden.
+Dazu sammeln wir gemeinsam Ideen und Themen (s.u.), die dann in den [Zeitplan](../programm/#zeitplan) eingeordnet werden.
 
 ## Marktplatz der Ideen und Themen
 

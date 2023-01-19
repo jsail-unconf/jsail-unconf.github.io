@@ -8,7 +8,7 @@ Die Seen sind durch zahlreiche Kanäle verbunden, Segeln ist in der Region eine 
 
 Die Schule bietet uns 
 
-* die Boote und weitere Ausrüstung zum [Segeln](../segeln/#Segeln) oder Wind-Surfen,
+* die Boote und weitere Ausrüstung zum [Segeln](../segeln/#segeln) oder Wind-Surfen,
 * mehrere kleine und große Räume und Außenbereiche für unsere [Unkonferenz](../unkonferenz) Sessions,
 * vor allem aber _Unterkunft_ und _Verpflegung_ für die gesamte Veranstaltung.
 

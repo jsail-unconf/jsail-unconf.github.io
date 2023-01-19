@@ -33,7 +33,7 @@ Leider kann es auch mal regnen oder sehr windig sein.
 Das Wetter kann auch wechseln, wenn wir schon unterwegs sind.
 Dementsprechend braucht man wasserdichte Kleidung (Regenhose und -jacke), wie man sie z.B. auch zum Radfahren anziehen würde.
 Als Schuhwerk sind Sportschuhe oder ggf. wasserdichte Schuhe (z.B. Gummistiefel, eher weiches Material) zu empfehlen.
-Gerne können wir hier noch weitere Tipps geben (-> [Kontakt/Slack](../kontakt/#Slack)).
+Gerne können wir hier noch weitere Tipps geben (-> [Kontakt/Slack](../kontakt/#slack)).
 
 
 ### Welche Kosten fallen an?
