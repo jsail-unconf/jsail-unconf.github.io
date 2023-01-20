@@ -14,7 +14,7 @@ Führen wir mit allen im [JVM German Slack](https://jvm-german.slack.com) ([Regi
 
 An der Organisation haben mitgewirkt
 
-* Gerd Aschemann
+* [Gerd Aschemann](https://mastodon.social/@ascheman)
 * Susanne Braun
 * Hendrik Ebbers
 * Tobias Frech
@@ -22,4 +22,4 @@ An der Organisation haben mitgewirkt
 * Falk Sippach
 
 Nicht alle von uns können an der ersten Ausrichtung teilnehmen.
-Aber alle von uns sind im Vorfeld und vor Ort für Fragen der Organisation und insbesondere natürlich zum [Verhaltenskodex](../verhaltenskodex/).
+Aber alle von uns sind im Vorfeld und vor Ort für Fragen der Organisation ansprechbar, insbesondere natürlich zum [Verhaltenskodex](../verhaltenskodex/).
