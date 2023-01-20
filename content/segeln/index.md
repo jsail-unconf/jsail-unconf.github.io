@@ -2,20 +2,18 @@
 title: "Segeln und andere Aktivitäten"
 ---
 
-Wie der Name schon sagt, kombinieren wir eine [Unkonferenz](../unkoferenz/) gezielt mit dem Holland-typischen Segeln, um die Vernetzung durch gemeinsame Aktivitäten zu fördern.
-_Alternativ_ sind auch andere Aktivitäten möglich (s.u.).
+Wie der Name schon sagt, kombinieren wir eine [Unkonferenz](../unkonferenz/) gezielt mit dem Holland-typischen Segeln, um die Vernetzung durch gemeinsame Aktivitäten zu fördern.
+_Alternativ_ sind auch andere [Aktivitäten](#andere-aktivitäten) möglich (s.u.).
 
 Im [Programm](../programm/) sehen wir jeden Tag etwa die halbe Zeit dafür vor.
 Wann die Blöcke genau liegen, müssen wir vom Wetter und natürlich von der Mitsprache aller abhängig machen.
 
-## Segeln
-
-### Boote
+## Boote
 
 In der Regel werden wir sogenannte Falken benutzen (ndl. _Valk_), das sind kentersichere, stabile Boote, die zum Lernen und Fahrtensegeln besonders geeignet sind.
 Ein kurzes [Video der Segelschule](https://www.youtube.com/watch?v=ksz7HmUoLCc&list=PLP_TspqtAAr82vOs5oul6WDEnbR_3f27Y&index=6) vermittelt einen Eindruck, wie das aussieht.
 
-### Brauche ich Vorkenntnisse?
+## Brauche ich Vorkenntnisse?
 
 Aus unserer Vor-Umfrage und dem Kreis der Organisierenden und anderen Interessenten wissen wir, dass einige von Euch Segel-Erfahrungen haben. 
 Ihr könnt ein Boot führen oder beim Führen der Boote unterstützen.
@@ -24,7 +22,7 @@ Bei Bedarf können wir auf erfahrenes Personal der Segelschule zurückgreifen.
 Für Unerfahrene werden wir in die Benutzung der Boote und alle wichtigen Regeln einführen.
 Alle, die Interesse haben, können mitfahren und nach Belieben eine aktive Rolle einnehmen, oder auch nur Sonne, Wind und Wetter genießen. 
 
-### Welche Ausrüstung benötige ich?
+## Welche Ausrüstung benötige ich?
 
 Die Segelschule stellt allen eine Schwimmweste.
 Solange das Wetter mitspielt, brauchen wir daher nur sportliche Kleidung, Sonnenbrille und Sonnenschutz für die Haut.
@@ -36,7 +34,7 @@ Als Schuhwerk sind Sportschuhe oder ggf. wasserdichte Schuhe (z.B. Gummistiefel,
 Gerne können wir hier noch weitere Tipps geben (-> [Kontakt/Slack](../kontakt/#slack)).
 
 
-### Welche Kosten fallen an?
+## Welche Kosten fallen an?
 
 Die Boote kosten 80,-- € pro Tag und können mit 4-5 Personen besetzt werden.
 Die anfallenden Kosten teilen wir zwischen den Segelnden auf (Zahlung vor Ort).

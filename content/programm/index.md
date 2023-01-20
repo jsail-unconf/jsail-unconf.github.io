@@ -6,6 +6,8 @@ title: "Programm"
 
 Aus unserem Netzwerk können wir aktuell bereits eine Reihe von spannenden Themen ankündigen, die mit hoher Wahrscheinlichkeit vertreten sein werden, u.a.
 
+* Aktuelle und zukünftige Java-Versionen und -Features
+* Software-Architektur
 * Eclipse Adoptium (OpenJDK)
 * DevOps
 * Testcontainers
