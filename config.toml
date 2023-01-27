@@ -11,7 +11,7 @@ theme = 'paige'
     toc = true
 
 [markup.goldmark.renderer]
-  unsafe = true
+    unsafe = true
 
 [languages]
     [languages.de]

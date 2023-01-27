@@ -2,7 +2,7 @@
 title: "Anmeldung"
 ---
 
-## Informationen (TODO)
+## Informationen
 
 * Formale Buchung erfolgt über Segelschule
 * Unterkunft und Vollverpflegung sind im Preis inbegriffen
@@ -17,16 +17,19 @@ Auf Wunsch kannst du Angehörige oder deine(n) PartnerIn mitbringen.
 Erwachsene und Kinder ab 14 Jahren einfach mit anmelden (s.u.).
 Bzgl. jüngerer Kinder bitte vorher mit uns [per Mail Kontakt aufnehmen](../kontakt/#mail].
 
-## Formular (TODO)
+## Formular
+
+<a href="https://cloud.ijug.eu/index.php/apps/forms/s/qTafCKXNNr7BcJK9Lr8CZp3L" target="_blank">Hier geht es zum Anmeldeformular</a>
+
+Im Formular fragen wir folgende Daten ab:
 
 * Name
 * Vorname
-* Mailadresse
-* Telefon
-
+* E-Mailadresse
+* Telefonnummer
 * Freigabe Daten für Fahrgemeinschaft bzw. Room-Sharing (optional)
 * Freigabe Daten für Segelschule (obligatorisch)
-* Interesse an Shuttle-Service (ungefähre Uhrzeit der Ankunft in Leeuwarden/Auswahlbox mit Stundenblöcken?, optional)
+* Interesse an Shuttle-Service (ungefähre Uhrzeit der Ankunft in Leeuwarden, optional)
 * Unterbringung
   * Ich teile mir gerne einen Schlafraum mit einer anderen Person (Auswahl: m/w/d/egal)
   * Ich teile mir einen Schlafraum mit _Email-Adresse(n)_ (Platzhalter, da eindeutig) 
