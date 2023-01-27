@@ -36,5 +36,7 @@ Im Formular fragen wir folgende Daten ab:
     *Hinweis:* die andere(n) Person muss sich separat anmelden und den Wunsch auf ein gemeinsames Zimmer ebenfalls angeben.
   * Ich möchte einen Schlafraum alleine benutzen (soweit möglich, Aufpreis 120,-- €)
 * Ich ernähre mich vegetarisch/vegan/... oder habe Lebensmittelunverträglichkeiten
+* Mit welchen Pronomen möchtest du angesprochen werden? (optional)
+* Welche Themen bringst du eventuell mit (optinal und unverbindlich)
 
 **Hinweis:** Bei der finalen Anmeldung/Abrechnung mit der Segelschule bitte nochmal auf Lebensmittelunverträglichkeiten oder den Wunsch nach vegetarischem/veganem Essen oder anderen Besonderheiten hinweisen.
