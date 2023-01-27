@@ -10,14 +10,12 @@ Aus unserem Netzwerk können wir aktuell bereits eine Reihe von spannenden Theme
 * Software-Architektur
 * Eclipse Adoptium (OpenJDK)
 * DevOps
-* Testcontainers
-* JUnit
-* KeyCloak
-* AWS (und andere) Clouds
-* IntelliJ (Plugins)
+* Authentifizierung mit KeyCloak
+* Public Clouds (AWS, Azure, ...)
+* Infrastructure as Code
+* Terraform
 * Build-Systeme
-
-[//]: # (TODO Highlights festmachen)
+* Event-Driven Architecture u.a. mit Apache Kafka
 
 ## Zeitplan
 
