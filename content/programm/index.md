@@ -12,10 +12,16 @@ Aus unserem Netzwerk können wir aktuell bereits eine Reihe von spannenden Theme
 * DevOps
 * Authentifizierung mit KeyCloak
 * Public Clouds (AWS, Azure, ...)
-* Infrastructure as Code
-* Terraform
+* Infrastructure as Code, z.B. mit Terraform
 * Build-Systeme
 * Event-Driven Architecture u.a. mit Apache Kafka
+* Virtual Threads
+* Efficient Java
+* Foreign-memory/function/vector APIs
+* Videoschnitt, z.B. mit Shotcut
+* Hibernate 6 (Migration, offene Bugs)
+* Cloud CI/CD, z.B. mit GitHub Actions
+* Documentation as Code (u.a. mit Antora/AsciiDoc)
 
 ## Zeitplan
 
