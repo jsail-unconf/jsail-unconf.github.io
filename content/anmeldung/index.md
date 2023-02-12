@@ -15,7 +15,7 @@ title: "Anmeldung"
 
 Auf Wunsch kannst du Angehörige oder deine(n) PartnerIn mitbringen.
 Erwachsene und Kinder ab 14 Jahren einfach mit anmelden (s.u.).
-Bzgl. jüngerer Kinder bitte vorher mit uns [per Mail Kontakt aufnehmen](../kontakt/#mail].
+Bzgl. jüngerer Kinder bitte vorher mit uns [per Mail Kontakt aufnehmen](../kontakt/#mail).
 
 ## Formular
 
