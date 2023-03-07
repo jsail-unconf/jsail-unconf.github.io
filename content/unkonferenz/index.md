@@ -2,7 +2,7 @@
 title: "Was ist eine Unkonferenz?"
 ---
 
-Eine [Unkonferenz](unkonferenz/) ist eine offene Konferenz mit mehreren Sessions (z.B. Diskussionsrunden), deren genaue Form und Inhalt vor Ort von den Teilnehmenden festgelegt werden.
+Eine [Unkonferenz](https://de.wikipedia.org/wiki/Tagung#Unkonferenz) ist eine offene Konferenz mit mehreren Sessions (z.B. Diskussionsrunden), deren genaue Form und Inhalt vor Ort von den Teilnehmenden festgelegt werden.
 
 ## Warum gibt es keine feste Agenda?
 
