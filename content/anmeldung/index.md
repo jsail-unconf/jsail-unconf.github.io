@@ -39,4 +39,6 @@ Im Formular fragen wir folgende Daten ab:
 * Mit welchen Pronomen möchtest du angesprochen werden? (optional)
 * Welche Themen bringst du eventuell mit (optinal und unverbindlich)
 
-**Hinweis:** Bei der finalen Anmeldung/Abrechnung mit der Segelschule bitte nochmal auf Lebensmittelunverträglichkeiten oder den Wunsch nach vegetarischem/veganem Essen oder anderen Besonderheiten hinweisen.
+**Hinweise:**
+* Wir sammeln zunächst die Anmeldungen über unser Formular und geben diese anschließend an die Segelschule weiter. Diese (oder wir) meldet sich anschließend bei Euch zwecks finaler Anmeldung bzw. Abrechnung. Ihr braucht zunächst nichts tun, außer unser Formular abschicken.
+* Bei der finalen Anmeldung/Abrechnung mit der Segelschule bitte nochmal auf Lebensmittelunverträglichkeiten oder den Wunsch nach vegetarischem/veganem Essen oder anderen Besonderheiten hinweisen.
