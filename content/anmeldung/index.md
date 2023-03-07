@@ -37,7 +37,7 @@ Im Formular fragen wir folgende Daten ab:
   * Ich möchte einen Schlafraum alleine benutzen (soweit möglich, Aufpreis 120,-- €)
 * Ich ernähre mich vegetarisch/vegan/... oder habe Lebensmittelunverträglichkeiten
 * Mit welchen Pronomen möchtest du angesprochen werden? (optional)
-* Welche Themen bringst du eventuell mit (optinal und unverbindlich)
+* Welche Themen bringst du eventuell mit (optional und unverbindlich)
 
 **Hinweise:**
 * Wir sammeln zunächst die Anmeldungen über unser Formular und geben diese anschließend an die Segelschule weiter. Diese (oder wir) meldet sich anschließend bei Euch zwecks finaler Anmeldung bzw. Abrechnung. Ihr braucht zunächst nichts tun, außer unser Formular abschicken.

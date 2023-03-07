@@ -9,7 +9,7 @@ Auf der JSail verbinden wir fachliche Sessions mit genug Freiraum und Möglichke
 
 Bei dieser **[Unkonferenz](unkonferenz/) rund um Java-Themen** gestalten wir alle gemeinsam das Programm.
 Gibt es etwas, worüber du schon immer einmal sprechen wolltest?
-Hast du Fragen zu einem Tool, Framework, oder auch ganz andere Themen aus deinem Arbeitsalltag in der Software-Entwicklung?
+Hast du Fragen zu einem Tool, Framework oder auch ganz andere Themen aus deinem Arbeitsalltag in der Software-Entwicklung?
 Möchtest du dich über die neuesten Hypes austauschen?
 Dann biete gerne eine eigene Session an oder finde das passende Angebot beim morgendlichen [Marktplatz](unkonferenz/#marktplatz-der-ideen-und-themen) der Ideen.
 Soviel dürfen wir schon verraten: Es werden einige Expert:innen vor Ort sein, die bei Bedarf unterstützen, aber auch eigene [Themen](programm/#Highlights) mitbringen werden.
@@ -23,7 +23,7 @@ Vielfältige Aktivitäten runden die Tage ab und machen das Event einzigartig.
 ## Was ist eine Unkonferenz?
 
 Eine [Unkonferenz](unkonferenz/) ist eine offene Konferenz mit mehreren Sessions, deren Form und Inhalt vor Ort von den Teilnehmenden festgelegt werden.
-Der Schwerpunkt liegt auf der Diskussion von Ideen und dem gleichberechtigten Austausch zwischen allen Beteiligten (von Experten bis zu New-Comern).
+Der Schwerpunkt liegt auf der Diskussion von Ideen und dem gleichberechtigten Austausch zwischen allen Beteiligten (von Experten bis zu Newcomern).
 Unser [Verhaltenskodex](verhaltenskodex/) gewährleistet einen offenen, sicheren und freundlichen Umgang aller miteinander.
 
 ## Kann ich auch ohne große Erfahrung mit Java oder Unkonferenzen teilnehmen?
