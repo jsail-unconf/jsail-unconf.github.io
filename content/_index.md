@@ -14,8 +14,8 @@ Möchtest du dich über die neuesten Hypes austauschen?
 Dann biete gerne eine eigene Session an oder finde das passende Angebot beim morgendlichen [Marktplatz](unkonferenz/#marktplatz-der-ideen-und-themen) der Ideen.
 Soviel dürfen wir schon verraten: Es werden einige Expert:innen vor Ort sein, die bei Bedarf unterstützen, aber auch eigene [Themen](programm/#Highlights) mitbringen werden.
 
-Nach den Sessions kann man sich beim Segeln in kleinen Booten weiter austauschen oder bei anderen gemeinsamen Aktivitäten ungezwungen ins Gespräch kommen.
-Aus diesem Grund haben wir eine Location gewählt, die einerseits genug Platz und Optionen für fachliche Sessions und Diskusionsrunden bietet, zusätzlich aber auch Freiräume zum Durchatmen und Vernetzen ermöglicht.
+Nach den Sessions kann man sich beim Segeln in kleinen Booten (3-5 Personen) weiter austauschen oder bei anderen gemeinsamen Aktivitäten ungezwungen ins Gespräch kommen.
+Aus diesem Grund haben wir eine Location gewählt, die einerseits genug Platz und Optionen für fachliche Sessions und Diskussionsrunden bietet, zusätzlich aber auch Freiräume zum Durchatmen und Vernetzen ermöglicht.
 Vielfältige Aktivitäten runden die Tage ab und machen das Event einzigartig.
 
 [//]: # (TODO hier Bild vom Segeln)

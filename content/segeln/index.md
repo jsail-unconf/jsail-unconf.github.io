@@ -8,6 +8,9 @@ _Alternativ_ sind auch andere [Aktivitäten](#andere-aktivitäten) möglich (s.u
 Im [Programm](../programm/) sehen wir jeden Tag etwa die halbe Zeit dafür vor.
 Wann die Blöcke genau liegen, müssen wir vom Wetter und natürlich von der Mitsprache aller abhängig machen.
 
+Unsere kleinen Touren werden uns auf die Kanäle und Seen rund um die Segelschule führen.
+Zwischendurch legen wir vielleicht mal in den kleinen Orten in der Nähe an und essen ein Eis oder Kuchen.
+
 ## Boote
 
 In der Regel werden wir sogenannte Falken benutzen (ndl. _Valk_), das sind kentersichere, stabile Boote, die zum Lernen und Fahrtensegeln besonders geeignet sind.
