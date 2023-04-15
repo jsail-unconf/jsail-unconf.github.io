@@ -1,12 +1,10 @@
-= JSail Homepage
-
-
+# JSail Homepage
 
 ## TODOs
 
 * [ ] README vervollständigen
 * [ ] Theme auswählen / Bilder hinzufügen
-* [ ] Mailadresse "jsail-orga@ijug.eu" (als Weiterleitung an alle) anlegen lassen
+* [x] Mailadresse "jsail-orga@ijug.eu" (als Weiterleitung an alle) anlegen lassen
 * [x] JVM-German-Slack "jsail-unkonferenz" anlegen (Referenz in Kontakt)
 * [ ] Integration per iJUG Matrix Server
 
