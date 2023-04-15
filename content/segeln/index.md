@@ -16,6 +16,16 @@ Zwischendurch legen wir vielleicht mal in den kleinen Orten in der Nähe an und 
 In der Regel werden wir sogenannte Falken benutzen (ndl. _Valk_), das sind kentersichere, stabile Boote, die zum Lernen und Fahrtensegeln besonders geeignet sind.
 Ein kurzes [Video der Segelschule](https://www.youtube.com/watch?v=ksz7HmUoLCc&list=PLP_TspqtAAr82vOs5oul6WDEnbR_3f27Y&index=6) vermittelt einen Eindruck, wie das aussieht.
 
+{{< paige/youtube 
+    video="ksz7HmUoLCc" 
+    autoplay=true
+    controls=true
+    loop=true
+    maxwidth="70%"
+    mute=true
+    description="Video Segelschule mit fahrenden Falken (Segelboot)"
+>}}
+
 ## Brauche ich Vorkenntnisse?
 
 Aus unserer Vor-Umfrage und dem Kreis der Organisierenden und anderen Interessenten wissen wir, dass einige von Euch Segel-Erfahrungen haben. 
