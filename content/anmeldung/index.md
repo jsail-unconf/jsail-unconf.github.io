@@ -2,6 +2,8 @@
 title: "Anmeldung"
 ---
 
+**ACHTUNG: Alle weiteren Anmeldungen können nur noch auf eine Warteliste aufgenommen werden!**
+
 ## Informationen
 
 * Formale Buchung erfolgt über Segelschule
