@@ -1,6 +1,13 @@
 ---
-title: "JSail Unkonferenz 2023"
+title: "JSail Unkonferenz 2024"
 ---
+
+## Save the Date
+
+* Die JSail 2024 findet vom 3. bis zum 7. Juni 2024 statt
+* **Die Veranstaltung liegt direkt in der Woche nach dem Fronleichnamswochenende. Dieses bietet sich für einen Kurzurlaub in den Niederlanden an - anschließend kommt ihr dann zur JSail!**
+
+## JSail die zweite
 
 Wolltet Ihr Euch nicht schon immer mal mit den Experten hinter Projekten wie OpenJDK, Maven oder Testcontainers direkt und ungezwungen austauschen?
 Auf der JSail verbinden wir fachliche Sessions mit genug Freiraum und Möglichkeiten zur Reflektion, Diskussion und Vertiefung.
@@ -37,8 +44,8 @@ Wir werden dich vor Ort oder [im Vorfeld](kontakt/) jederzeit gerne unterstütze
 
 ## Wann findet das Event statt?
 
-* **Start: Dienstag, 30. Mai 2023, ca. 18:00**
-* **Ende: Freitag, 02. Juni 2023, ca. 17:30**
+* **Start: Montag, 03. Juni 2024, ca. 18:00**
+* **Ende: Freitag, 07. Juni 2024, ca. 10:00**
 
 ## Wo findet das Ganze statt?
 
@@ -46,7 +53,7 @@ Die [Segelschule _De Morra_](location/) in Hemelum, Niederlande (Provinz Friesla
 
 ## Was kostet es mich?
 
-* Die Kosten für Unterkunft und Vollverpflegung betragen **pro Person 313,50 €** (bei Belegung der Zimmer mit je 2 Personen)
+* Die Kosten für Unterkunft und Vollverpflegung betragen **pro Person ca. XXX €** (genauer Preis wird zum Zeitpunkt der [Anmeldung](anmeldung/) feststehen; **Bitte beachten**: Dieses Jahr sehen wir vier Übernachtungen und vier Tage Vollverpflegung vor, rechnet daher gegenüber dem Vorjahr bitte mit ca. 33% Mehrkosten und nat. Anpassungen an Inflation etc. )
 
 * Die Kosten für das [Segeln](segeln/) teilen sich die Personen, die daran teilnehmen (pro Person und Tag ca. 20,-- €).
 * [An- und Abreise](an+abreise/) gehen auf eigene Kosten.
