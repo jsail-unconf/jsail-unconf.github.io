@@ -18,6 +18,6 @@ An der Organisation haben mitgewirkt
 * [Hendrik Ebbers](https://mastodon.cloud/@hendrikEbbers)
 * [Tobias Frech](https://ijug.social/@TobiasFrech)
 * [Sandra Parsick](https://mastodon.social/@sparsick)
-* [Falk Sippach](https://mastodon.social/@sippsack)
+* [Falk Sippach](https://ijug.social/@sippsack)
 
 Wir alle sind im Vorfeld (und vor Ort) für Fragen der Organisation ansprechbar, insbesondere natürlich zum [Verhaltenskodex](../verhaltenskodex/).
