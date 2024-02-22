@@ -4,7 +4,7 @@ title: "Programm"
 
 ## Highlights
 
-**Sobald die [Anmeldung](../anmeldung/) freigeschaltet wird, werden wir auch mögliche Themen einblenden!**
+**Sobald die [Anmeldung](../anmeldung/) freigeschaltet wird, werden wir auch mögliche Themen einblenden, soweit sie von Euch vorgeschlagen werden!**
 
 ## Zeitplan
 

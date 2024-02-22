@@ -44,8 +44,8 @@ Wir werden dich vor Ort oder [im Vorfeld](kontakt/) jederzeit gerne unterstütze
 
 ## Wann findet das Event statt?
 
-* **Start: Montag, 03. Juni 2024, ca. 18:00**
-* **Ende: Freitag, 07. Juni 2024, ca. 10:00**
+* **Start: Montag, 03. Juni 2024, ca. 18:00** (Abendessen)
+* **Ende: Freitag, 07. Juni 2024, ca. 10:00** (Frühstück)
 
 ## Wo findet das Ganze statt?
 
@@ -53,9 +53,16 @@ Die [Segelschule _De Morra_](location/) in Hemelum, Niederlande (Provinz Friesla
 
 ## Was kostet es mich?
 
-* Die Kosten für Unterkunft und Vollverpflegung betragen **pro Person ca. XXX €** (genauer Preis wird zum Zeitpunkt der [Anmeldung](anmeldung/) feststehen; **Bitte beachten**: Dieses Jahr sehen wir vier Übernachtungen und vier Tage Vollverpflegung vor, rechnet daher gegenüber dem Vorjahr bitte mit ca. 33% Mehrkosten und nat. Anpassungen an Inflation etc. )
+* Die Kosten für Unterkunft und Vollverpflegung (drei Mahlzeiten am Tag) betragen je nach Zimmer 
+  * Für ein Zimmer im Ketelhus (gemeinsame Nutzung von Sanitär-Anlagen) 
+    * bei Belegung der Zimmer mit zwei Personen, pro Person: **360,50 €**
+    * bei Einzelbelegung pro Person: **460,50 €**
+  * Bei anderen Zimmern (eigene Dusche/Toilette)
+    * bei Belegung der Zimmer mit zwei Personen, pro Person: **500,50 €**
+    * bei Einzelbelegung pro Person: **640,50 €**
 
 * Die Kosten für das [Segeln](segeln/) teilen sich die Personen, die daran teilnehmen (pro Person und Tag ca. 20,-- €).
+* Vor Ort fallen evtl. weitere Kosten für abendliche Getränke an (wir suchen noch einen Sponsor).
 * [An- und Abreise](an+abreise/) gehen auf eigene Kosten.
 
 ## Kann ich meine Familie oder andere Personen mitbringen?
