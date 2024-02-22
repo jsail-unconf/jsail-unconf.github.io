@@ -19,8 +19,6 @@ Wir wünschen uns von allen eine **Anreise am Montag, 03. Juni 2024 bis 18:00 Uh
 
 Mit Fernzügen kann man z.B. bis Leeuwarden und anschließend per Bus oder Nahverkehrszug nach Hemelum gelangen.
 
-Je nach Nachfrage (s. [Anmeldung](../anmeldung/)) können wir einen Shuttle-Service von/nach Leeuwarden organisieren.
-
 ## Abreise / Verlängerung
 
 Das gemeinsame Programm endet am **Freitag, 07. Juni 2024 nach dem Frühstück**.
