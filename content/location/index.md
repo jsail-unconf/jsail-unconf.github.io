@@ -28,7 +28,7 @@ Neben
 * Frühstück,
 * Mittagessen und 
 * Abendessen, sind
-* alle Softdrinks, sowie Kaffee/Tees und 
+* alle Softdrinks in den Essenspausen, sowie Kaffee/Tees und 
 * Bettzeug und Handtücher
 
 in den Kosten enthalten.
