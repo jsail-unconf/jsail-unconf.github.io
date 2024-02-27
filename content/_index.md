@@ -2,12 +2,7 @@
 title: "JSail Unkonferenz 2024"
 ---
 
-## Save the Date
-
-* Die JSail 2024 findet vom 3. bis zum 7. Juni 2024 statt
-* **Die Veranstaltung liegt direkt in der Woche nach dem Fronleichnamswochenende. Dieses bietet sich für einen Kurzurlaub in den Niederlanden an - anschließend kommt ihr dann zur JSail!**
-
-## JSail die zweite
+## JSail die zweite (3.6.24 - 7.6.24)
 
 Wolltet Ihr Euch nicht schon immer mal mit den Experten hinter Projekten wie OpenJDK, Maven oder Testcontainers direkt und ungezwungen austauschen?
 Auf der JSail verbinden wir fachliche Sessions mit genug Freiraum und Möglichkeiten zur Reflektion, Diskussion und Vertiefung.
@@ -46,6 +41,8 @@ Wir werden dich vor Ort oder [im Vorfeld](kontakt/) jederzeit gerne unterstütze
 
 * **Start: Montag, 03. Juni 2024, ca. 18:00** (Abendessen)
 * **Ende: Freitag, 07. Juni 2024, ca. 10:00** (Frühstück)
+
+**Die Veranstaltung liegt direkt in der Woche nach dem Fronleichnamswochenende. Dieses bietet sich für einen Kurzurlaub in den Niederlanden an - anschließend kommt ihr dann zur JSail!**
 
 ## Wo findet das Ganze statt?
 
