@@ -73,4 +73,4 @@ Weitere Personen bei der [Anmeldung](anmeldung/#familie--partnerinnen) einfach m
 
 [Wir](kontakt/#organisierende) sind eine Arbeitsgruppe des [iJUG](https://ijug.eu), die aktuell weitgehend personalidentisch mit den Organisierenden der [CyberLand](https://cyberland.ijug.eu) ist.
 Wir kümmern uns jedoch nur um die inhaltliche Organisation.
-Alle Teilnehmenden buchen nach [Anmeldung](anmeldung/) selbständig die Unterkunft und Verpflegung über die [Segelschule](location/).
+Alle Teilnehmenden buchen durch Ihre [Anmeldung](anmeldung/) verbindlich die Unterkunft und Verpflegung über die [Segelschule](location/).
