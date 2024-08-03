@@ -8,7 +8,7 @@ Alle Teilnehmenden reisen auf eigene Kosten mit einem Verkehrsmittel ihrer Wahl 
 
 **Hinweis:** Wer bei der [Anmeldung](../anmeldung/) einer Freigabe seiner Daten an andere Teilnehmende zustimmt, kann ggf. mit diesen gemeinsame Reisemöglichkeiten organisieren.
 
-Wir wünschen uns von allen eine **Anreise am Montag, 03. Juni 2024 bis 18:00 Uhr**.
+Wir wünschen uns von allen eine **Anreise am Montag, 23. Juni 2025 bis 18:00 Uhr**.
 
 ### Anreise per Auto
 
@@ -19,10 +19,6 @@ Wir wünschen uns von allen eine **Anreise am Montag, 03. Juni 2024 bis 18:00 Uh
 
 Mit Fernzügen kann man z.B. bis Leeuwarden und anschließend per Bus oder Nahverkehrszug nach Hemelum gelangen.
 
-## Abreise / Verlängerung
+## Abreise
 
-Das gemeinsame Programm endet am **Freitag, 07. Juni 2024 nach dem Frühstück**.
-
-Der Aufenthalt in der Segelschule kann auf eigene Kosten bis (max.) Sonntag verlängert werden.
-Mindestens ein Teil der Organisierenden wird noch über das Wochenende vor Ort bleiben.
-Wir können weitere gemeinsame Segelausflüge oder andere Aktivitäten unternehmen.
+Das gemeinsame Programm endet am **Freitag, 27. Juni 2025 nach dem Frühstück**.

@@ -32,6 +32,6 @@ Eine Unkonferenz wird manchmal auch als [Barcamp](https://de.wikipedia.org/wiki/
 Der Begriff geht nach unserem Verständnis darauf zurück, dass viele Menschen den Austausch mit Anderen während der Pausen einer Konferenz, den sog. _Hallway Track_ als spannender empfinden als die eigentlichen Konferenzvorträge.
 Die Vorträge stehen in der Regel schon lange vor der Konferenz fest und geben typischerweise vor allem die Sicht der referierenden Person auf ein Thema wieder.
 
-Eine Unkonferenz versucht stattdessen, einen Raum für einen gleichberechtigten Austausch zu schaffen und möglichst viele Sichten und Meinungen zu integrieren.
+Eine [Unkonferenz](https://www.heise.de/meinung/Unkonferenzen-Flexibles-Format-fuer-kreativen-Austausch-ein-Interview-9780367.html) versucht stattdessen, einen Raum für einen gleichberechtigten Austausch zu schaffen und möglichst viele Sichten und Meinungen zu integrieren.
 Die Agenda wird tagesaktuell von den Teilnehmenden festgelegt.
 So ist sichergestellt, dass Themen diskutiert werden, die für die Anwesenden zum Zeitpunkt der Unkonferenz eine hohe Relevanz haben. 
