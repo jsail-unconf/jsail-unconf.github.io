@@ -2,13 +2,16 @@
 title: "Anmeldung"
 ---
 
-[//]: # (Die Anmeldung erfolgt über [unseren Ticketshop]&#40;https://pretix.eu/jsail/2025/&#41;.)
+Die Anmeldung erfolgt über [unseren Ticketshop](https://pretix.eu/jsail/2025/).
 
-Eine Anmeldung für 2025 wird ca. ab Januar oder Februar 2025 möglich sein.
-Zu diesem Zeitpunkt werden wir auch die aktuellen Preise für 2025 veröffentlichen.
+[//]: # (Eine Anmeldung für 2025 wird ca. ab Januar oder Februar 2025 möglich sein.)
 
-Du willst den Anmeldestart nicht verpassen? 
-[Registriere deine E-Mail-Adresse](https://cloud.ijug.eu/index.php/apps/forms/s/9SjPR3TpS46D6R6YZNoesrK6) und wir informieren dich, wenn es konkret wird.
+[//]: # (Zu diesem Zeitpunkt werden wir auch die aktuellen Preise für 2025 veröffentlichen.)
+
+[//]: # ()
+[//]: # (Du willst den Anmeldestart nicht verpassen? )
+
+[//]: # ([Registriere deine E-Mail-Adresse]&#40;https://cloud.ijug.eu/index.php/apps/forms/s/9SjPR3TpS46D6R6YZNoesrK6&#41; und wir informieren dich, wenn es konkret wird.)
 
 
 **Bitte beachten**:
@@ -21,11 +24,11 @@ Du willst den Anmeldestart nicht verpassen?
 
 * Unterkunft und Vollverpflegung sind im Preis inbegriffen (ab erstem Abendessen am Montag bis abschließendem Frühstück am Freitag).
   * Für ein Zimmer im Ketelhuis (gemeinsame Nutzung von Sanitär-Anlagen)
-    * bei Belegung der Zimmer mit zwei Personen, pro Person: **TBD €**
-    * bei Einzelbelegung pro Person: **TBD €**
+    * bei Belegung der Zimmer mit zwei Personen, pro Person: **388,-- €**
+    * bei Einzelbelegung pro Person: **498,-- €**
   * Bei anderen Zimmern (eigene Dusche/Toilette)
-    * bei Belegung der Zimmer mit zwei Personen, pro Person: **TBD €**
-    * bei Einzelbelegung pro Person: **TBD €**
+    * bei Belegung der Zimmer mit zwei Personen, pro Person: **528,-- €**
+    * bei Einzelbelegung pro Person: **678,-- €**
 
 * Für die Teilnahme an der Unkonferenz fallen keine weiteren Kosten an.
 * Organisation und Durchführung der Unkonferenz (inklusive aller Materialien) werden vom iJUG durch ehrenamtliche Leistung und Unterstützung durch Sponsoren erbracht.
