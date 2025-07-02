@@ -15,7 +15,7 @@ Die Schule bietet uns
 ## Unterkunft
 
 Die Location mit insgesamt mehr als 270 Schlafmöglichkeiten ist exklusiv für uns reserviert.
-Wir nutzen vor allem das sogenannte _[Ketelhuis](https://groepsaccommodatiedemorra.nl/portfolio/ketelhuis/)_ mit 12 Schlafzimmern, einem großen Aufenthaltsraum und einer Bar.
+Wir nutzen vor allem das sogenannte _[Ketelhuis](https://groepsaccommodatiedemorra.nl/het-ketelhuis/)_ mit 12 Schlafzimmern, einem großen Aufenthaltsraum und einer Bar.
 Ihr werdet in Mehrbettzimmern schlafen (JH-Stil), die jedoch nur mit 1-2 Personen belegt werden (vgl. [Anmeldung](../anmeldung/)).
 
 Bei großer Nachfrage können wir weitere Rämlichkeiten nutzen.
@@ -28,8 +28,8 @@ Neben
 * Frühstück,
 * Mittagessen und 
 * Abendessen, sind
-* alle Softdrinks in den Essenspausen, sowie Kaffee/Tees und 
-* Bettzeug und Handtücher
+* Kaffee/Tees und 
+* Bettzeug (Handtücher nur bei Kategorien H1/H2)
 
 in den Kosten enthalten.
 

@@ -50,16 +50,16 @@ Die [Segelschule _De Morra_](location/) in Hemelum, Niederlande (Provinz Friesla
 
 ## Was kostet es mich?
 
-* Die Kosten für Unterkunft und Vollverpflegung (drei Mahlzeiten am Tag) betragen je nach Zimmer 
-  * Für ein Zimmer im Ketelhus (gemeinsame Nutzung von Sanitär-Anlagen) 
-    * bei Belegung der Zimmer mit zwei Personen, pro Person: **360,50 €**
-    * bei Einzelbelegung pro Person: **460,50 €**
+* Die Kosten für Unterkunft und Vollverpflegung (drei Mahlzeiten am Tag) betragen je nach Zimmer (Stand **2025**)
+  * Für ein Zimmer im Ketelhuis (gemeinsame Nutzung von Sanitär-Anlagen) 
+    * bei Belegung der Zimmer mit zwei Personen, pro Person: **388,-- €**
+    * bei Einzelbelegung pro Person: **498,-- €**
   * Bei anderen Zimmern (eigene Dusche/Toilette)
-    * bei Belegung der Zimmer mit zwei Personen, pro Person: **500,50 €**
-    * bei Einzelbelegung pro Person: **640,50 €**
+    * bei Belegung der Zimmer mit zwei Personen, pro Person: **528,-- €**
+    * bei Einzelbelegung pro Person: **678,-- €**
 
-* Die Kosten für das [Segeln](segeln/) teilen sich die Personen, die daran teilnehmen (pro Person und Tag ca. 20,-- €).
-* Vor Ort fallen evtl. weitere Kosten für abendliche Getränke an (wir suchen noch einen Sponsor).
+* Die Kosten für das [Segeln](segeln/) teilen sich die Personen, die daran teilnehmen (pro Person und Tag vorauss. 20,-- €).
+* Vor Ort fallen weitere Kosten für Getränke an (wir suchen noch einen Sponsor).
 * [An- und Abreise](an+abreise/) gehen auf eigene Kosten.
 
 ## Kann ich meine Familie oder andere Personen mitbringen?
