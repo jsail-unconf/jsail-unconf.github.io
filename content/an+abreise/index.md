@@ -8,7 +8,7 @@ Alle Teilnehmenden reisen auf eigene Kosten mit einem Verkehrsmittel ihrer Wahl 
 
 **Hinweis:** Wer bei der [Anmeldung](../anmeldung/) einer Freigabe seiner Daten an andere Teilnehmende zustimmt, kann ggf. mit diesen gemeinsame Reisemöglichkeiten organisieren.
 
-Wir wünschen uns von allen eine **Anreise am Montag, 23. Juni 2025 bis 18:00 Uhr**.
+Wir wünschen uns von allen eine **Anreise am Montag, 08. Juni 2026 bis 18:00 Uhr**.
 
 ### Anreise per Auto
 
@@ -21,4 +21,4 @@ Mit Fernzügen kann man z.B. bis Leeuwarden und anschließend per Bus oder Nahve
 
 ## Abreise
 
-Das gemeinsame Programm endet am **Freitag, 27. Juni 2025 nach dem Frühstück**.
+Das gemeinsame Programm endet am **Freitag, 12. Juni 2026 nach dem Frühstück**.

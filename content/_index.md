@@ -1,8 +1,8 @@
 ---
-title: "JSail Unkonferenz 2025"
+title: "JSail Unkonferenz 2026"
 ---
 
-## JSail 2025 (23.06.25 - 27.06.25)
+## JSail 2026 (08.06.26 - 12.06.26)
 
 Wolltet Ihr Euch nicht schon immer mal mit den Experten hinter Projekten wie OpenJDK, Maven oder Testcontainers direkt und ungezwungen austauschen?
 Auf der JSail verbinden wir fachliche Sessions mit genug Freiraum und Möglichkeiten zur Reflektion, Diskussion und Vertiefung.
@@ -39,8 +39,8 @@ Wir werden dich vor Ort oder [im Vorfeld](kontakt/) jederzeit gerne unterstütze
 
 ## Wann findet das Event statt?
 
-* **Start: Montag, 23. Juni 2025, ca. 18:00** (Abendessen)
-* **Ende: Freitag, 27. Juni 2025, ca. 10:00** (Frühstück)
+* **Start: Montag, 08. Juni 2026, ca. 18:00** (Abendessen)
+* **Ende: Freitag, 12. Juni 2026, ca. 10:00** (Frühstück)
 
 **Die Veranstaltung liegt direkt in der Woche nach dem Fronleichnamswochenende. Dieses bietet sich für einen Kurzurlaub in den Niederlanden an - anschließend kommt ihr dann zur JSail!**
 
