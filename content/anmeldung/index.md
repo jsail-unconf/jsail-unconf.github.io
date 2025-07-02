@@ -21,7 +21,7 @@ Du willst den Anmeldestart nicht verpassen?
 
 ## Informationen
 
-* Unterkunft und Vollverpflegung sind im Preis inbegriffen (ab erstem Abendessen am Montag bis abschließendem Frühstück am Freitag).
+* Unterkunft und Vollverpflegung (ohne Getränke) sind im Preis inbegriffen (ab erstem Abendessen am Montag bis abschließendem Frühstück am Freitag, **Preise von 2025**).
   * Für ein Zimmer im Ketelhuis (gemeinsame Nutzung von Sanitär-Anlagen)
     * bei Belegung der Zimmer mit zwei Personen, pro Person: **388,-- €**
     * bei Einzelbelegung pro Person: **498,-- €**
