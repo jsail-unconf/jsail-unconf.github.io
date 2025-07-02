@@ -2,16 +2,15 @@
 title: "Anmeldung"
 ---
 
-Die Anmeldung erfolgt über [unseren Ticketshop](https://pretix.eu/jsail/2025/).
+[//]: # (Die Anmeldung erfolgt über [unseren Ticketshop]&#40;https://pretix.eu/jsail/2026/&#41;.)
 
-[//]: # (Eine Anmeldung für 2025 wird ca. ab Januar oder Februar 2025 möglich sein.)
+Eine Anmeldung für 2026 wird ca. ab Februar 2026 möglich sein.
 
-[//]: # (Zu diesem Zeitpunkt werden wir auch die aktuellen Preise für 2025 veröffentlichen.)
+Zu diesem Zeitpunkt werden wir auch die aktuellen Preise für 2026 veröffentlichen.
 
-[//]: # ()
-[//]: # (Du willst den Anmeldestart nicht verpassen? )
+Du willst den Anmeldestart nicht verpassen? 
 
-[//]: # ([Registriere deine E-Mail-Adresse]&#40;https://cloud.ijug.eu/index.php/apps/forms/s/9SjPR3TpS46D6R6YZNoesrK6&#41; und wir informieren dich, wenn es konkret wird.)
+[Registriere deine E-Mail-Adresse](https://cloud.ijug.eu/index.php/apps/forms/s/9SjPR3TpS46D6R6YZNoesrK6) und wir informieren dich, wenn es konkret wird.
 
 
 **Bitte beachten**:
