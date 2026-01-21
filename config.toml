@@ -58,4 +58,4 @@ theme = 'paige'
             [[languages.de.menu.main]]
             name = "Impressum"
             weight = 90
-            url = "https://www.ijug.eu/de/impressum/"
+            url = "https://www.ijug.eu/impressum/"
