@@ -2,9 +2,9 @@
 title: "JSail Unkonferenz 2026"
 ---
 
-## JSail 2026 (08.06.26 - 12.06.26)
+## JSail 2026 (08.06.2026 - 12.06.2026)
 
-Wolltet Ihr Euch nicht schon immer mal mit den Experten hinter Projekten wie OpenJDK, Maven oder Testcontainers direkt und ungezwungen austauschen?
+Wolltet Ihr Euch nicht schon immer mal mit den ExpertInnen hinter Projekten wie OpenJDK, Maven oder Testcontainers direkt und ungezwungen austauschen?
 Auf der JSail verbinden wir fachliche Sessions mit genug Freiraum und Möglichkeiten zur Reflektion, Diskussion und Vertiefung.
 
 [//]: # (TODO hier Bild mit Lernenden ...)
@@ -14,7 +14,7 @@ Gibt es etwas, worüber du schon immer einmal sprechen wolltest?
 Hast du Fragen zu einem Tool, Framework oder auch ganz andere Themen aus deinem Arbeitsalltag in der Software-Entwicklung?
 Möchtest du dich über die neuesten Hypes austauschen?
 Dann biete gerne eine eigene Session an oder finde das passende Angebot beim morgendlichen [Marktplatz](unkonferenz/#marktplatz-der-ideen-und-themen) der Ideen.
-Soviel dürfen wir schon verraten: Es werden einige Expert:innen vor Ort sein, die bei Bedarf unterstützen, aber auch eigene [Themen](programm/#Highlights) mitbringen werden.
+Soviel dürfen wir schon verraten: Es werden einige ExpertInnen vor Ort sein, die bei Bedarf unterstützen, aber auch eigene [Themen](programm/#Highlights) mitbringen werden.
 
 Nach den Sessions kann man sich beim Segeln in kleinen Booten (3-5 Personen) weiter austauschen oder bei anderen gemeinsamen Aktivitäten ungezwungen ins Gespräch kommen.
 Aus diesem Grund haben wir eine Location gewählt, die einerseits genug Platz und Optionen für fachliche Sessions und Diskussionsrunden bietet, zusätzlich aber auch Freiräume zum Durchatmen und Vernetzen ermöglicht.
@@ -25,7 +25,7 @@ Vielfältige Aktivitäten runden die Tage ab und machen das Event einzigartig.
 ## Was ist eine Unkonferenz?
 
 Eine [Unkonferenz](unkonferenz/) ist eine offene Konferenz mit mehreren Sessions, deren Form und Inhalt vor Ort von den Teilnehmenden festgelegt werden.
-Der Schwerpunkt liegt auf der Diskussion von Ideen und dem gleichberechtigten Austausch zwischen allen Beteiligten (von Experten bis zu Newcomern).
+Der Schwerpunkt liegt auf der Diskussion von Ideen und dem gleichberechtigten Austausch zwischen allen Beteiligten (von ExpertInnen bis zu NewcomerInnen).
 Unser [Verhaltenskodex](verhaltenskodex/) gewährleistet einen offenen, sicheren und freundlichen Umgang aller miteinander.
 
 ## Kann ich auch ohne große Erfahrung mit Java oder Unkonferenzen teilnehmen?

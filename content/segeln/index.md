@@ -18,7 +18,7 @@ Ein kurzes [Video der Segelschule](https://www.youtube.com/watch?v=ksz7HmUoLCc&l
 
 ## Brauche ich Vorkenntnisse?
 
-Aus unserer Vor-Umfrage und dem Kreis der Organisierenden und anderen Interessenten wissen wir, dass einige von Euch Segel-Erfahrungen haben. 
+Aus unserer Vor-Umfrage und dem Kreis der Organisierenden und anderen InteressentInnen wissen wir, dass einige von Euch Segel-Erfahrungen haben. 
 Ihr könnt ein Boot führen oder beim Führen der Boote unterstützen.
 Bei Bedarf können wir auf erfahrenes Personal der Segelschule zurückgreifen.
 
@@ -34,7 +34,7 @@ Leider kann es auch mal regnen oder sehr windig sein.
 Das Wetter kann auch wechseln, wenn wir schon unterwegs sind.
 Dementsprechend braucht man wasserdichte Kleidung (Regenhose und -jacke), wie man sie z.B. auch zum Radfahren anziehen würde.
 Als Schuhwerk sind Sportschuhe oder ggf. wasserdichte Schuhe (z.B. Gummistiefel, eher weiches Material) zu empfehlen.
-Gerne können wir hier noch weitere Tipps geben (-> [Kontakt/Slack](../kontakt/#slack)).
+Gerne können wir hier noch weitere Tipps geben (-> [Kontakt/Slack](../kontakt/#allgemeine-diskussionenfragen)).
 
 
 ## Welche Kosten fallen an?

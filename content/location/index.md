@@ -18,7 +18,7 @@ Die Location mit insgesamt mehr als 270 Schlafmöglichkeiten ist exklusiv für u
 Wir nutzen vor allem das sogenannte _[Ketelhuis](https://groepsaccommodatiedemorra.nl/het-ketelhuis/)_ mit 12 Schlafzimmern, einem großen Aufenthaltsraum und einer Bar.
 Ihr werdet in Mehrbettzimmern schlafen (JH-Stil), die jedoch nur mit 1-2 Personen belegt werden (vgl. [Anmeldung](../anmeldung/)).
 
-Bei großer Nachfrage können wir weitere Rämlichkeiten nutzen.
+Bei großer Nachfrage können wir weitere Räumlichkeiten nutzen.
 
 ## Verpflegung
 
@@ -33,4 +33,4 @@ Neben
 
 in den Kosten enthalten.
 
-Bitte gebt bei der [Anmeldung](../anmeldung/) an, wie ihr euch ernährt (z.B. vegatarisch etc.), damit die Segelschule bzw. das Catering das berücksichtigen kann.
+Bitte gebt bei der [Anmeldung](../anmeldung/) an, wie ihr euch ernährt (z.B. vegetarisch etc.), damit die Segelschule bzw. das Catering das berücksichtigen kann.
