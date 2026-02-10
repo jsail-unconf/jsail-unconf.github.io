@@ -58,7 +58,7 @@ Die [Segelschule _De Morra_](location/) in Hemelum, Niederlande (Provinz Friesla
     * bei Belegung der Zimmer mit zwei Personen, pro Person: **510,-- €**
     * bei Einzelbelegung pro Person: **720,-- €**
   * Ohne Unterkunft pro Person: **300,-- €**
-  * Mit eigenem Camper/Zelt auf dem Gelände der Segelschule pro Person: **400,-- €**
+  * Mit eigenem Camper/Zelt auf dem Gelände der Segelschule pro Person: **380,-- €**
 
 * Die Kosten für das [Segeln](segeln/) teilen sich die Personen, die daran teilnehmen (pro Person und Tag vorauss. 20,-- €).
 * Vor Ort fallen weitere Kosten für Getränke an (wir suchen noch einen Sponsor).

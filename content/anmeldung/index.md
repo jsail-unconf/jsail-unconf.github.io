@@ -31,7 +31,7 @@ Rechnungen kommen erst nach dem Event (evtl. wird eine Vorauszahlung fällig, bi
     * bei Belegung der Zimmer mit zwei Personen, pro Person: **510,-- €**
     * bei Einzelbelegung pro Person: **720,-- €**
 * Ohne Unterkunft pro Person: **300,-- €** (Neu!)
-* Mit eigenem Camper/Zelt auf dem Gelände der Segelschule pro Person: **400,-- €** (Neu!)
+* Mit eigenem Camper/Zelt auf dem Gelände der Segelschule pro Person: **380,-- €** (Neu!)
 
 * Für die Teilnahme an der Unkonferenz fallen keine weiteren Kosten an.
 * Organisation und Durchführung der Unkonferenz (inklusive aller Materialien) werden vom iJUG durch ehrenamtliche Leistung und Unterstützung durch Sponsoren erbracht.
